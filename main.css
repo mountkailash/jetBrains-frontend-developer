@@ -1,0 +1,11 @@
+.flex-container{
+    display: block;
+    flex-direction: row;
+}
+
+button{
+    background-color: pink;
+    border: none;
+
+}
+
